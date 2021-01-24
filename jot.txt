@@ -1,0 +1,16 @@
+SQL players table structure
+FirstName
+LastName
+Age
+Position
+Nationality
+Suitability Index
+
+View players functions
+-View a list of players (display: name, age, position, nationality, suitability index)
+-small Window displaying details of selected player
+
+CRUD functionality
+-Delete player next to the details window
+-Add player in small window with text entry
+
