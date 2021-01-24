@@ -14,3 +14,9 @@ CRUD functionality
 -Delete player next to the details window
 -Add player in small window with text entry
 
+-----------------------------------------------------------------------------------------
+
+TODO
+-Create interface for repository
+-create ADO entity data model
+
